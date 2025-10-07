@@ -40,7 +40,7 @@ background-color: #afeeee;
 }
 
 
-#section{
+.section{
     background-color: #f8f3f3;
     padding: 10px;
 }
